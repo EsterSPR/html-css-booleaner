@@ -69,7 +69,7 @@ ul {
 table {
     width: 100%;
     text-align: justify;
-    border: 0px;
+    border-collapse: collapse;
 }
 
 thead {
