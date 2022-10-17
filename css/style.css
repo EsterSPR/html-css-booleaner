@@ -54,6 +54,10 @@ a {
     height: 60vh;
 }
 
+#didascalia {
+    font-size: 10pt;
+}
+
 .evidenziato {
     background-color: yellow;
 }
