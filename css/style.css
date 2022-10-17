@@ -23,3 +23,64 @@ header {
     bottom: 10px;
     left: 5px;
 }
+
+main {
+    margin: 30px 10px;
+}
+
+section {
+    margin: 30pt 0;
+}
+
+h1 {
+    font-size: 40pt;
+}
+
+a {
+    color: #4EA0FF;
+    text-decoration: none;
+}
+
+#autore {
+    font-size: 15pt;
+    color: gray;
+}
+
+#data {
+    color: gray;
+}
+
+.img-principali {
+    height: 60vh;
+}
+
+.evidenziato {
+    background-color: yellow;
+}
+
+ul {
+    margin: 0 10px;
+}
+
+table {
+    width: 100%;
+    text-align: justify;
+    border: 0px;
+}
+
+thead {
+    background-color: #20A9E5;
+    color: #fff;
+}
+
+th, td {
+    width: 25%;
+}
+
+.testo-lungo-tab {
+    width: 50%;
+}
+
+.blue-bg {
+    background-color: #B1E5F2;
+}
