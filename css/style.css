@@ -84,3 +84,20 @@ th, td {
 .blue-bg {
     background-color: #B1E5F2;
 }
+
+footer {
+    margin: 0 10px;
+}
+
+#consigliati-title {
+    margin-bottom: 15px;
+    color: grey;
+}
+
+.consigliati {
+    width: 20vw;
+    height: 25vh;
+    color: #fff;
+    padding: 10px;
+    margin: 15px 0;
+}
